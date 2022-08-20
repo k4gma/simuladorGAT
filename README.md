@@ -1,0 +1,2 @@
+# simuladorGAT
+exercicio simulador 
